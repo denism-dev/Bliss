@@ -5,11 +5,11 @@ import './index.css';
 
 import Header from './Components/Header';
 import Footer from './Components/Footer';
-import Home from './pages/Home';
-import About from './pages/About';
-import Services from './pages/Services';
-import Contact from './pages/Contact';
-import NotFound from './pages/NotFound';
+import Home from './Pages/Home';
+import About from './Pages/About';
+import Services from './Pages/Services';
+import Contact from './Pages/Contact';
+import NotFound from './Pages/NotFound';
 import IntroductionPage from './Pages/IntroductionPage';
 import ScrollToTop from './Components/ScrollToTop';
 import SoftwareDevelopment from './Pages/SoftwareDev';
